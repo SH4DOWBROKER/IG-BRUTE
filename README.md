@@ -1,3 +1,4 @@
 # number-reporter
-apt update
-pkg upgrade
+# apt update
+# pkg upgrade
+
