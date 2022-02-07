@@ -2,7 +2,7 @@
 # apt update
 # pkg upgrade
 # pkg install git
-# git clone
+# git clone https://github.com/shadowbroker6666/number-reporter
 # cd num-reporter
 # ls
 # chmod +x *
