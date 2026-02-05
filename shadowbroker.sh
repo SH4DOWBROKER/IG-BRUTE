@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-  #SHADOW BROKER 666 
+  #SHADOWBROKER#
 apt update 
 
 pkg upgrade 
@@ -8,10 +8,7 @@ pkg upgrade
 pkg install git 
 
 
-clear 
-
-
-#😂😂######SHADOW BROKER 666 ######
+#SHADOWBROKER#
 
 
 
