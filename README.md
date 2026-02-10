@@ -1,4 +1,4 @@
-# INSTAGRAM BRUTEFORCE
+   INSTAGRAM BRUTEFORCE ATTACK
 # apt update
 # pkg upgrade
 # pkg install git
@@ -8,3 +8,5 @@ https://github.com/SH4DOWBROKER/IG-BRUTE.git
 # ls
 # chmod +x *
 # bash shadowbroker.sh
+Enter the username and 
+Confirm the username
