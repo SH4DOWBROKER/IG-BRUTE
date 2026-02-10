@@ -7,5 +7,5 @@
 # ls
 # chmod +x *
 # bash shadowbroker.sh
-Enter the username and 
-Confirm the username
+# Enter the username and 
+# Confirm the username
